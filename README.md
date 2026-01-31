@@ -14,7 +14,7 @@ I work at the intersection of **AI**, **Cloud**, and **Backend Engineering**, bu
 * **Cloud & DevOps** — AWS, Docker, CI/CD, Terraform, secure deployments
 * **Backend Engineering** — Python, FastAPI/Flask, Node.js, microservices
 * **Product Engineering** — architecting & shipping MVPs fast
-* **Startup Tech** — Founding Engineer at *Mapping Nexus* & building AI-driven products
+* **Startup Tech** — Founding Engineer at *Seriene* & *Mapping Nexus* & building AI-driven products
 
 ---
 
@@ -55,8 +55,6 @@ Built with **Groq LLM**, **Flask**, **Docker**, and **React + TypeScript** for a
 * 🏅 **Finalist — SuperHack 2025**
 * 🩺 **Regional Round Participant — Shine Healthcare Hackathon**
 * ⚡ **Participated in multiple major hackathons across India**
-* 🥇 **HackerRank Gold Badge — Java**
-* 📄 **More details in my resume** 
 
 ---
 
