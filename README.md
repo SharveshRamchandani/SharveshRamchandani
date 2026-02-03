@@ -3,7 +3,7 @@
 
 # 💫 About Me
 
-Hi, I'm **Sharvesh Ramchandani** — a **Founding Engineer**, **AI/ML Developer**, and **Cybersecurity Enthusiast** from India.
+Hi, I'm **Sharvesh Ramchandani** — a  **AI/ML Developer**, and **Cybersecurity Enthusiast** 
 I work at the intersection of **AI**, **Cloud**, and **Backend Engineering**, building scalable real-world products.
 
 ---
@@ -14,7 +14,6 @@ I work at the intersection of **AI**, **Cloud**, and **Backend Engineering**, bu
 * **Cloud & DevOps** — AWS, Docker, CI/CD, Terraform, secure deployments
 * **Backend Engineering** — Python, FastAPI/Flask, Node.js, microservices
 * **Product Engineering** — architecting & shipping MVPs fast
-* **Startup Tech** — Founding Engineer at *Seriene* & *Mapping Nexus* & building AI-driven products
 
 ---
 
