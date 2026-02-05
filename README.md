@@ -50,7 +50,7 @@ Built with **Groq LLM**, **Flask**, **Docker**, and **React + TypeScript** for a
 
 ## 🏆 Achievements
 
-* 🥈 **Runner-up — AI EduCthon TechFest 2025**
+* 🥈 **Runners-up — AI Eduthon  TechFest 2025 IIT Bombay**
 * 🏅 **Finalist — SuperHack 2025**
 * 🩺 **Regional Round Participant — Shine Healthcare Hackathon**
 * ⚡ **Participated in multiple major hackathons across India**
