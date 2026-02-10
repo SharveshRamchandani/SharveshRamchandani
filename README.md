@@ -3,8 +3,8 @@
 
 # 💫 About Me
 
-Hi, I'm **Sharvesh Ramchandani** — a  **AI/ML Developer**, and **Cybersecurity Enthusiast** 
-I work at the intersection of **AI**, **Cloud**, and **Backend Engineering**, building scalable real-world products.
+Hi, I'm ** Sharvesh.** I enjoy working in **AI/ML and cybersecurity,**  and I'm also learning **cloud and DevOps.**
+I'm passionate about improving my skills and contributing wherever I can.I work at the intersection of **AI**, **Cloud**, and **Backend Engineering**, building scalable real-world products.
 
 ---
 
