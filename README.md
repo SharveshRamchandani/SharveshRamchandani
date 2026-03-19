@@ -50,6 +50,7 @@ Built with **Groq LLM**, **Flask**, **Docker**, and **React + TypeScript** for a
 
 ## 🏆 Achievements
 
+* 🏅 **Special Appreciation- Secure Exam Integrity Hackathon – The 48-Hour Ethical Challenge**
 * 🥈 **Runners-up — AI Eduthon  TechFest 2025 IIT Bombay**
 * 🏅 **Finalist — SuperHack 2025**
 * 🩺 **Regional Round Participant — Shine Healthcare Hackathon**
